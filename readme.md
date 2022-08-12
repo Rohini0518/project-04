@@ -17,4 +17,4 @@ This  digital marketing landing Page project,  took me almost 5 hrs to complete,
 ![project 4](./screenshot.png)
 
 ## Here is live link
-[Live link]()
+[Live link](https://rohini-project04.netlify.app/)
